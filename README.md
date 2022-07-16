@@ -1,7 +1,8 @@
 # Answer and Solution
 Answer  
-> Join:us:at:LINE:MAN:Wongnai
-
+```
+Join:us:at:LINE:MAN:Wongnai
+```
 1. Decode from the secret which was encoded with base64.
 2. Convert the secret from ascii to character.
 3. Reverse it.
